@@ -44,3 +44,12 @@ To deploy: Either use the Desktop Manager application with the .cod and .jar fil
 
 1. No bus stop search functionality. Searching by road / postcode would probably be useful.
 2. No location awareness, e.g. via GPS/WiFi/etc. Goes hand-in-hand with #1 above.
+
+If anyone wants to contribute, please feel free.
+
+### Credits
+
+This application utilises the org.json.me J2ME JSON parser (https://github.com/upictec/org.json.me/).
+
+It also makes extensive copy/paste usage of the httpdemo sample application from the BlackBerry 4.5 JDE.
+
