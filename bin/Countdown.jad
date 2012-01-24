@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: Countdown
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os
+MIDlet-Jar-Size: 61235
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1327274564
+MIDlet-Jar-URL: Countdown.jar
+RIM-COD-URL: Countdown.cod
+RIM-COD-SHA1: 0e fa 34 74 87 fc 42 04 3c e9 45 6e 38 37 c3 a8 3f 09 fe f1
+RIM-COD-Size: 17756
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: Countdown
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
